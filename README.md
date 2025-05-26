@@ -1,2 +1,2 @@
-just vibe coded it but it works.
-You can ask ai to create forms now by having it in the same structure as quiz data
+## Extension
+Basically it asks ai to create a quiz in json format, then calls a google script. Change it to your needs and your own gs.
